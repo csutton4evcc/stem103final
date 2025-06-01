@@ -1,3 +1,5 @@
+# Coffee shop functions - must be included with main.py for the program to run
+
 def check_phone():
     get_phone_number = True
     while get_phone_number:
