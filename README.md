@@ -2,7 +2,7 @@
 
 Here's some example code that may help you create your final project. 
 
-As a reminder, you may NOT copy this code for any project you complete.
+As a reminder, you may NOT copy this code for your own project.
 
 Seeing this code work can be accomplished in several ways!
 
